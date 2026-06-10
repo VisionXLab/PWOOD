@@ -125,16 +125,14 @@ If you need Point version, please switch to the [Point branch](https://github.co
 
 ## Citation
 ```bibtex
-@misc{liu2025partialweaklysupervisedorientedobject,
-      title={Partial Weakly-Supervised Oriented Object Detection}, 
-      author={Mingxin Liu and Peiyuan Zhang and Yuan Liu and Wei Zhang and Yue Zhou and Ning Liao and Ziyang Gong and Junwei Luo and Zhirui Wang and Yi Yu and Xue Yang},
-      year={2025},
-      eprint={2507.02751},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.02751}, 
+@inproceedings{liu2026pwood,
+  author = {Liu, Mingxin and Zhang, Peiyuan and Liu, Yuan and Zhang, Wei and Zhou, Yue and Liao, Ning and Gong, Ziyang and Luo, Junwei and Wang, Zhirui and Yu, Yi and Yang, Xue},
+  title = {Partial Weakly-Supervised Oriented Object Detection},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  month = {June},
+  year = {2026},
+  pages = {27644-27654}
 }
-
 ```
 
 
